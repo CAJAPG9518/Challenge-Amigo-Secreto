@@ -38,4 +38,4 @@ https://github.com/user-attachments/assets/1ba0fab6-e528-4ffe-887e-c6a74b3cea20
 
 1. **Descargar el repositorio**
    ```bash
-   git clone https://github.com/CAJAPG9518/Chanllenge-Amigo-Secreto.git
+   git clone https://github.com/CAJAPG9518/Challenge-Amigo-Secreto.git
